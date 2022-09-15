@@ -1,12 +1,17 @@
 import Posts from "../Posts";
 import SideBar from "../SideBar";
+import Stories from "../Stories";
 
 export default function Corpo(){
 return(
 
     <>
     <div class="corpo">
-      <Posts/>
+        <div className="esquerda">
+        <Stories/>
+        <Posts/>
+    </div>
+      
       <SideBar/>
       
 
