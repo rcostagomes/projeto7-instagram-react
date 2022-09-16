@@ -3,7 +3,7 @@ export default function Usuario(){
     
         <>
         <div class="usuario">
-          <img src="assets/img/catanacomics.svg" />
+          <img src="assets/img/catanacomics.svg" alt="FotoPerfil"/>
           <div class="texto">
             <strong>catanacomics</strong>
             <span>
