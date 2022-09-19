@@ -304,10 +304,18 @@ body {
 
 .fundo-mobile ion-icon {
   cursor: pointer;
+
 }
 
 .logo-mobile, .instagram-mobile {
   display: none !important;
+}
+
+
+.Curtido {
+
+  color: red !important;
+
 }
 
 @media (max-width: 935px) {
